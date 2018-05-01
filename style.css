@@ -1,0 +1,15 @@
+.sheet {
+
+}
+
+.sheet .card {
+	border: 1px solid black;
+	width: 63.5mm;
+	height: 88.9mm;
+	border-radius: 4mm;
+	padding: 4mm;
+}
+
+.seet .card .title {
+
+}
